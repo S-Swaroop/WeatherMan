@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/WeatherMan/static/css/main.77c620ab.chunk.css",
+    "main.js": "/WeatherMan/static/js/main.9b09713a.chunk.js",
+    "main.js.map": "/WeatherMan/static/js/main.9b09713a.chunk.js.map",
+    "runtime-main.js": "/WeatherMan/static/js/runtime-main.988dd413.js",
+    "runtime-main.js.map": "/WeatherMan/static/js/runtime-main.988dd413.js.map",
+    "static/js/2.65d98fc8.chunk.js": "/WeatherMan/static/js/2.65d98fc8.chunk.js",
+    "static/js/2.65d98fc8.chunk.js.map": "/WeatherMan/static/js/2.65d98fc8.chunk.js.map",
+    "index.html": "/WeatherMan/index.html",
+    "static/css/main.77c620ab.chunk.css.map": "/WeatherMan/static/css/main.77c620ab.chunk.css.map",
+    "static/js/2.65d98fc8.chunk.js.LICENSE.txt": "/WeatherMan/static/js/2.65d98fc8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.988dd413.js",
+    "static/js/2.65d98fc8.chunk.js",
+    "static/css/main.77c620ab.chunk.css",
+    "static/js/main.9b09713a.chunk.js"
+  ]
+}
