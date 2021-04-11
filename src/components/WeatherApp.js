@@ -44,7 +44,7 @@ function WeatherApp() {
     return (
         <div>
             <h1>Weather App</h1>
-            <form>
+            <form >
                 <input type="text" name="city" placeholder="city" onChange={(e)=>handleChange(e)}></input>
                 <input type="text" name="country" placeholder="country" onChange={(e)=>handleChange(e)}></input>
                 <button onClick={(e)=>WeatherData(e)}>submit</button>
